@@ -434,7 +434,7 @@ void Bus_Classes()
 		case 'a':
 		case 'A':
 			cout << " A class : \n\n" << "1. air conditioner \n" << "2. one trip ( Less time to reach )\n" << "3. The latest vehicle releases\n"
-				<< "4. super comfortable\n\n";
+				<< "4. super comfortable\n" << " 5. high technology\n\n";
 			break;
 		case 'b':
 		case 'B':
